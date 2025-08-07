@@ -3,7 +3,7 @@
 ## Project Overview
 This Power BI dashboard provides a comprehensive analysis of mobile sales data across various dimensions including cities, brands, models, and payment methods. It was developed as part of a hands-on learning experience with Skill Course, focusing on data modeling, DAX, and interactive visual storytelling.
 
-(PowerBI.
+(PowerBI.PNG)
 
 ## Key Insights
 - Total Sales Overview:
