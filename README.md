@@ -22,3 +22,6 @@ Insights into customer feedback and satisfaction.
 Day-wise trends and performance analysis by mobile model.
 
 -This project demonstrates the use of Power BI for analyzing and visualizing mobile sales data. The dashboard offers clear insights into sales performance across multiple dimensions such as location, brand, model, payment method, and customer ratings.
+
+### RAW DATA0:
+![RAW_DATA](RAW DATA.xlsx)
