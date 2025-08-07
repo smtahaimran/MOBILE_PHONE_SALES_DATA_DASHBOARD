@@ -6,7 +6,8 @@ This Power BI dashboard provides a comprehensive analysis of mobile sales data a
 ![Microsoft_PowerBI_Dashboard](PowerBI.PNG)
 
 ## Key Insights
-- Total Sales Overview:
+
+### Total Sales Overview:
 Get a quick glance at overall performance metrics.
 
 ### City-wise Sales Distribution:
